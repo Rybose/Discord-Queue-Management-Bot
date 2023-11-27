@@ -5,7 +5,7 @@ from discord.ext import commands
 #from constant_pinging import keep_alive
 
 #maybe add this to an env so it's private
-token = "MTEyNDU3ODg4MTg2NTc3NzI1Mg.GPTbl6.1Cv4TktMWmcml-ec0U5bJyDsOVJSWoNp2D6Ofc"
+token = "token"
 intents = discord.Intents.default()
 intents.message_content = True
 intents.members = True
